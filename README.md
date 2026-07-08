@@ -12,6 +12,12 @@ Create a practical system to register projects, construction items, costs, and p
 - Track progress
 - Show summary information
 
+## Core entities
+- Project
+- WorkItem
+- Cost
+- Progress
+
 ## Planned technologies
 - Java
 - Spring Boot
@@ -20,6 +26,10 @@ Create a practical system to register projects, construction items, costs, and p
 
 ## Project status
 Initial structure in progress.
+
+## Documentation
+- `docs/ideas.md`
+- `docs/tasks.md`
 
 ## Future improvements
 - Authentication
